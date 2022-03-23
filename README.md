@@ -1,13 +1,15 @@
 # -1688-
 
 1.获取1688商品页的html源码 放入3.txt文件中(源码位置见z1.png)
+
 图片标题：z1.png
 <img src="https://raw.githubusercontent.com/deciduousl/1688_getimg/master/z1.png">
           
 2.获取1688商品详情接口的值放入xqimg.txt文件中(值如何寻找见z2.png z3.png)
+
 图片标题：z2.png
 <img src="https://raw.githubusercontent.com/deciduousl/1688_getimg/master/z2.png">
-图片标题：z3。png
+图片标题：z3.png
 <img src="https://raw.githubusercontent.com/deciduousl/1688_getimg/master/z3.png">
 
 3.运行就完事儿了~
